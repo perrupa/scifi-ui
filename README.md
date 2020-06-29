@@ -4,4 +4,3 @@
 ## Decisions
 - component library vs framework?
 - opinionated stack (react) vs generic (css & js)
--
